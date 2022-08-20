@@ -8,5 +8,5 @@ for i in circular_linked_list:
     if i not in a:
         a.append(i)
 print(len(a))
-print(a)
-      
+for i in range(i):
+    print(a[i],end=" ")
